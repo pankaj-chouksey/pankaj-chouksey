@@ -1,6 +1,6 @@
 # Hi 👋, I'm Pankaj Chouksey
 
-🚀 Full Stack Developer | UI/UX Designer | AI Enthusiast
+🚀 Full Stack Developer | UI/UX Designer 
 
 I'm passionate about building scalable web applications, AI-powered tools, and startups that solve real-world problems.
 
@@ -18,14 +18,13 @@ I'm passionate about building scalable web applications, AI-powered tools, and s
 ### Backend
 - Node.js
 - Express.js
-- PostgreSQL
 - Supabase
 - MongoDB
 
 ### Tools
 - Git
 - GitHub
-- Postman
+- vercel
 - Figma
 
 ## 🚀 Featured Projects
@@ -33,11 +32,10 @@ I'm passionate about building scalable web applications, AI-powered tools, and s
 ### 🏥 Medical Equipment Marketplace
 A complete e-commerce platform for medical devices with authentication, product management, and admin dashboard.
 
-### 🎬 Adobe Premiere Pro Extension
-CEP extension built using JavaScript to automate editing workflows.
 
-### 👟 Custom Shoes Startup
-Building an online platform for personalized footwear.
+### 🏥 Hostel Marketplace
+A marketplace for students to explore hostels.
+
 
 
 ## 📫 Connect with Me
